@@ -1,0 +1,16 @@
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\bin\Debug\net5.0\metot_overloading.exe
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\bin\Debug\net5.0\metot_overloading.deps.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\bin\Debug\net5.0\metot_overloading.runtimeconfig.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\bin\Debug\net5.0\metot_overloading.runtimeconfig.dev.json
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\bin\Debug\net5.0\metot_overloading.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\bin\Debug\net5.0\ref\metot_overloading.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\bin\Debug\net5.0\metot_overloading.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\obj\Debug\net5.0\metot_overloading.csproj.AssemblyReference.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\obj\Debug\net5.0\metot_overloading.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\obj\Debug\net5.0\metot_overloading.AssemblyInfoInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\obj\Debug\net5.0\metot_overloading.AssemblyInfo.cs
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\obj\Debug\net5.0\metot_overloading.csproj.CoreCompileInputs.cache
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\obj\Debug\net5.0\metot_overloading.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\obj\Debug\net5.0\ref\metot_overloading.dll
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\obj\Debug\net5.0\metot_overloading.pdb
+C:\Users\volkan\OneDrive\Belgeler\pratikler\metot_overloading\obj\Debug\net5.0\metot_overloading.genruntimeconfig.cache
